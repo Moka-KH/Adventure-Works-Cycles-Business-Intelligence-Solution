@@ -1,11 +1,10 @@
 # Adventure-Works-Cycles-Business-Intelligence-Solution
- End-to-end Business Intelligence Solution using the Adventure Works Cycles database. The aim is to track and analyze their sales for a better decision-making process.
+ End-to-end Business Intelligence Solution using the Adventure Works Cycles database. The aim is to track and analyze their sales for a better decision-making process. The project is a hands-on experience from my Data Engineering Internship at EJADA Company.
+ 
 
  The Project phases are:
  1. Design and Populate a Data Warehouse for monitoring and analyzing historical sales using several tools (SSIS, SSMS, Visual Studio).
  2. Design a Sales Report showing a summary of sales and the most important KPIs using Microsoft Power BI. 
-
-The project is a hands-on experience from my Data Engineering Internship at EJADA Company.
 
 Skills used in the Project:
 - Using SQL Server Integration Services (SSIS) for handling data integration tasks. 
