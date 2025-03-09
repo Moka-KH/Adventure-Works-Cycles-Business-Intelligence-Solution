@@ -11,6 +11,6 @@ Skills used in the Project:
 - Creating insightful visualizations and analyzing data effectively using Microsoft Power BI and DAX. 
 - Applying ETL (Extract, Transform, Load) processes and data warehousing. 
 
-- You can see the Project Presentation here: https://drive.google.com/file/d/1RRj2Rsl4VK7AzzLxQD2pSRq2enfU8bB7/view?usp=sharing
-- You can check the Video representing the project here: https://drive.google.com/file/d/1LmETL5gYUvqaZ1zHGiRiwtD0FaRE2wYD/view?usp=sharing
+- You can see the Project Presentation here: [https://drive.google.com/file/d/1RRj2Rsl4VK7AzzLxQD2pSRq2enfU8bB7/view?usp=sharing](https://drive.google.com/file/d/1wU7anQOcrAaA91rBi_EFe7AaZfiVp_Kc/view?usp=sharing)
+- You can check the Video representing the project here: [https://drive.google.com/file/d/1LmETL5gYUvqaZ1zHGiRiwtD0FaRE2wYD/view?usp=sharing](https://drive.google.com/file/d/1cZqDxiy41heILSLk-8etI-qQtmJ0tH-b/view?usp=sharing)
 - If you want to hear about my experience in EJADA, check this post: https://www.linkedin.com/posts/malk-khatab_dataabrengineering-businessabrintelligence-activity-7221103287465353216-Ialo?utm_source=share&utm_medium=member_desktop
